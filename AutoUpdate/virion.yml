@@ -1,0 +1,5 @@
+name: AutoUpdater
+version: 0.0.1
+antigen: updater
+php: [7.2]
+author: jasonwynn10

@@ -1,0 +1,6 @@
+name: AutoUpdateTester
+main: jasonwynn10\AutoUpdateTester
+version: 0.0.1
+api: 3.0.0-ALPHA11
+author: jasonwynn10
+description: example plugin for the auto updater
